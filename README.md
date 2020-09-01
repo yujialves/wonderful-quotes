@@ -1,2 +1,2 @@
 # wonderful-quotes
-A little quotes application (from Udemy course project)
+A little quotes application.
